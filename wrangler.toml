@@ -1,0 +1,13 @@
+name = "payment-receiver"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "Pay"
+id = "c260a95b13bd4e75a541fba120c399fa"
+
+[observability]
+enabled = true
+
+[build]
+command = ""
